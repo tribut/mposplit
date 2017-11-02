@@ -1,6 +1,6 @@
 # mposplit.py
 
-Split [JPEG Multi-Picture Format](https://en.wikipedia.org/wiki/JPEG#JPEG_Multi-Picture_Format) (MPO) images into simple JPG files. This is a simple Python script using the excellent [Pillow](http://python-pillow.org/) library.
+Split [JPEG Multi-Picture Format](https://en.wikipedia.org/wiki/JPEG#JPEG_Multi-Picture_Format) (MPO) images into simple JPG files. This is a small Python script using the excellent [Pillow](http://python-pillow.org/) library.
 
 ## Usage
 
