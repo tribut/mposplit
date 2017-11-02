@@ -5,9 +5,13 @@ Split [JPEG Multi-Picture Format](https://en.wikipedia.org/wiki/JPEG#JPEG_Multi-
 ## Usage
 
 ```
-$ mposplit.py P1010386.JPG
+$ mposplit.py *.JPG
+== Processing P1010386.JPG ==
 Extracting image to P1010386-0.JPG
 Extracting image to P1010386-1.JPG
+== Processing P1010387.JPG ==
+Extracting image to P1010387-0.JPG
+Extracting image to P1010387-1.JPG
 ```
 
 ## License
